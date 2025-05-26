@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+.nma{
+background: green;
+
+}
+.m{
+border-radius: 100% solid color red;
+
+}
+.aaa{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto ;
+background: rgb(250, 174, 12) ; 
+color: white;
+width: 450px;
+}
+.name{
+    width: 800px;
+    text-align: center;
+    height: 300px;
+    border: 5px solid red;
+    margin-left: auto ;
+    margin-right: auto;
+}
+.bbb{
+background-color:rgb(250, 174, 12) ;
+color: white;
+width: 450px;
+margin-left: auto ;
+margin-right: auto ;
+}
